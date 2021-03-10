@@ -1,0 +1,41 @@
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 100px;
+}
+
+.dua{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.tiga{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.kotak-1{
+    width: 360px;
+    height: 70px;
+    background-color: green;
+    margin: auto;
+    padding: 20px;
+    border: 5px double red;
+}
+
+.kotak-2{
+    width: 400px;
+    height: 70px;
+    background-color: indianred;
+    margin: auto;
+    padding: 10px;
+    border: 3px dashed blue;
+}

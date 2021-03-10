@@ -1,0 +1,17 @@
+div.judul{
+    width: 200px;
+    height: 200px;
+    background-color: springgreen;
+}
+
+.judul p{
+    background-color: skyblue;
+    width: 130%;
+}
+
+div.konten{
+    background-color: tomato;
+    width: 200px;
+    height: 200px;
+    overflow: scroll;
+}
